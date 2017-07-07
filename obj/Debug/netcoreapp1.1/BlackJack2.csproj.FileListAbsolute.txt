@@ -1,0 +1,9 @@
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\bin\Debug\netcoreapp1.1\BlackJack2.deps.json
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\bin\Debug\netcoreapp1.1\BlackJack2.runtimeconfig.json
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\bin\Debug\netcoreapp1.1\BlackJack2.runtimeconfig.dev.json
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\obj\Debug\netcoreapp1.1\BlackJack2.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\obj\Debug\netcoreapp1.1\BlackJack2.AssemblyInfo.cs
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\bin\Debug\netcoreapp1.1\BlackJack2.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\bin\Debug\netcoreapp1.1\BlackJack2.pdb
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\obj\Debug\netcoreapp1.1\BlackJack2.dll
+C:\Users\Mike\documents\visual studio 2017\Projects\BlackJack2\BlackJack2\obj\Debug\netcoreapp1.1\BlackJack2.pdb
